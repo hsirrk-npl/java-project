@@ -5,7 +5,7 @@ public class NewspaperCover extends JFrame {
 
     public NewspaperCover() {
 
-        setTitle("Newspaper Cover Page");
+        setTitle("Newspapr");
         setSize(800, 900);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLayout(new BorderLayout());
